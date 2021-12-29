@@ -1,5 +1,5 @@
 # Quiz App
- This project deals with an application that allows the user to develop his knowledge through some simple questions posed by the application. The user moves to the quiz and ultimately the application must display the score that he collected, moreover the user can repeats the quiz to improve the score.
+ A flutter project that deals with an application that allows the user to develop his knowledge through some simple questions posed by the application. The user moves to the quiz and ultimately the application must display the score that he collected, moreover the user can repeats the quiz to improve the score.
  
  # Specification
  <ul>
